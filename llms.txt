@@ -1,0 +1,30 @@
+# rusifikator_uz
+
+> Сервис в Ташкенте: русификация мультимедиа и приборной панели китайских автомобилей и установка приложений (YouTube, Яндекс Навигатор, Telegram, Кинопоиск, ContraCam), голосовое управление. Работа — от 15 минут до 2 часов, цены — от 200 000 сум, гарантия пожизненная.
+
+Марки: BYD, Leapmotor, GAC, Deepal, Haval, Hongqi, Dongfeng, BAIC; приложения на AIQAR EQ7 и Chevrolet Monza.
+Языки сайта: русский, узбекский (латиница).
+
+## Страницы
+- [Главная](https://medium25.github.io/ru/): что делаем, цены по маркам, контакты
+- [Цены](https://medium25.github.io/ru/ceny/): цены по маркам и моделям, в сумах
+- [Приложения](https://medium25.github.io/ru/prilozheniya/): какие приложения ставим и как они работают в поездке
+- [Вопросы](https://medium25.github.io/ru/voprosy/): ответы о цене, сроках, обновлениях и гарантии
+- [Контакты](https://medium25.github.io/ru/kontakty/): телефон, Telegram, адрес, часы работы
+- [BYD](https://medium25.github.io/ru/byd/)
+- [Leapmotor](https://medium25.github.io/ru/leapmotor/)
+- [GAC](https://medium25.github.io/ru/gac/)
+- [Deepal](https://medium25.github.io/ru/deepal/)
+- [Haval](https://medium25.github.io/ru/haval/)
+- [Hongqi](https://medium25.github.io/ru/hongqi/)
+- [Dongfeng](https://medium25.github.io/ru/dongfeng/)
+- [AIQAR](https://medium25.github.io/ru/aiqar/)
+- [BAIC](https://medium25.github.io/ru/baic/)
+- [Chevrolet Monza](https://medium25.github.io/ru/chevrolet-monza/)
+
+## Контакты
+- Телефон: +998 90 006 45 44
+- Telegram: @ShavkatovD
+- Instagram: @rusifikator_uz
+- Ориентир: Дружба, Новый Динамо, Ташкент; есть выезд к клиенту
+- Часы: каждый день 10:00–22:00
