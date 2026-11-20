@@ -237,3 +237,5 @@ h3{margin:0;font-size:1.15rem;font-weight:500}
 .foot__in a{display:inline-flex;align-items:center;min-height:44px}
 #faq-link{padding-top:20px}
 .foot__tm{margin:6px 0 0;font-size:.75rem;opacity:.8}
+/* v20: контраст по PageSpeed (метки услуг и строка о значках) */
+.foot__tm{opacity:1;color:var(--muted)}

@@ -237,3 +237,8 @@ section{scroll-margin-top:68px}
 .foot__in a{display:inline-flex;align-items:center;min-height:44px}
 #faq-link{padding-top:20px}
 .foot__tm{margin:6px 0 0;font-size:.75rem;opacity:.8}
+/* v20: контраст по PageSpeed (метки услуг и строка о значках) */
+.foot__tm{opacity:1;color:var(--muted)}
+
+/* v20: контраст меток услуг ≥ 4.5:1 (PageSpeed) */
+#brands{--c-apps:#075e91;--c-ru:#1d4ed8;--c-ruonly:#1d4ed8;--c-en:#8a3f06;--c-voice:#6d28d9}
