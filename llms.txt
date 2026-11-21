@@ -22,6 +22,9 @@
 - [BAIC](https://avto-programma.uz/ru/baic/)
 - [Chevrolet Monza](https://avto-programma.uz/ru/chevrolet-monza/)
 
+## Подробно
+- [Все цены и ответы одним текстом](https://avto-programma.uz/llms-full.txt)
+
 ## Контакты
 - Телефон: +998 90 006 45 44
 - Telegram: @ShavkatovD
