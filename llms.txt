@@ -6,21 +6,21 @@
 Языки сайта: русский, узбекский (латиница).
 
 ## Страницы
-- [Главная](https://medium25.github.io/ru/): что делаем, цены по маркам, контакты
-- [Цены](https://medium25.github.io/ru/ceny/): цены по маркам и моделям, в сумах
-- [Приложения](https://medium25.github.io/ru/prilozheniya/): какие приложения ставим и как они работают в поездке
-- [Вопросы](https://medium25.github.io/ru/voprosy/): ответы о цене, сроках, обновлениях и гарантии
-- [Контакты](https://medium25.github.io/ru/kontakty/): телефон, Telegram, адрес, часы работы
-- [BYD](https://medium25.github.io/ru/byd/)
-- [Leapmotor](https://medium25.github.io/ru/leapmotor/)
-- [GAC](https://medium25.github.io/ru/gac/)
-- [Deepal](https://medium25.github.io/ru/deepal/)
-- [Haval](https://medium25.github.io/ru/haval/)
-- [Hongqi](https://medium25.github.io/ru/hongqi/)
-- [Dongfeng](https://medium25.github.io/ru/dongfeng/)
-- [AIQAR](https://medium25.github.io/ru/aiqar/)
-- [BAIC](https://medium25.github.io/ru/baic/)
-- [Chevrolet Monza](https://medium25.github.io/ru/chevrolet-monza/)
+- [Главная](https://avto-programma.uz/ru/): что делаем, цены по маркам, контакты
+- [Цены](https://avto-programma.uz/ru/ceny/): цены по маркам и моделям, в сумах
+- [Приложения](https://avto-programma.uz/ru/prilozheniya/): какие приложения ставим и как они работают в поездке
+- [Вопросы](https://avto-programma.uz/ru/voprosy/): ответы о цене, сроках, обновлениях и гарантии
+- [Контакты](https://avto-programma.uz/ru/kontakty/): телефон, Telegram, адрес, часы работы
+- [BYD](https://avto-programma.uz/ru/byd/)
+- [Leapmotor](https://avto-programma.uz/ru/leapmotor/)
+- [GAC](https://avto-programma.uz/ru/gac/)
+- [Deepal](https://avto-programma.uz/ru/deepal/)
+- [Haval](https://avto-programma.uz/ru/haval/)
+- [Hongqi](https://avto-programma.uz/ru/hongqi/)
+- [Dongfeng](https://avto-programma.uz/ru/dongfeng/)
+- [AIQAR](https://avto-programma.uz/ru/aiqar/)
+- [BAIC](https://avto-programma.uz/ru/baic/)
+- [Chevrolet Monza](https://avto-programma.uz/ru/chevrolet-monza/)
 
 ## Контакты
 - Телефон: +998 90 006 45 44

@@ -28,4 +28,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://medium25.github.io/sitemap.xml
+Sitemap: https://avto-programma.uz/sitemap.xml
